@@ -15,6 +15,6 @@ Issues may be entered here.
 If it proves necessary to update the files, this repository will
 be filled with files retrieved from CTAN:
 
-https://www.ctan.org/language/hyphenation/fahyph.zip
+http://mirrors.ctan.org/language/hyphenation/fahyph.zip
 
 
